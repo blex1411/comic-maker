@@ -1,0 +1,5 @@
+{
+  "name": "Comic Craft AI",
+  "description": "Generate compelling comic book stories with consistent characters. Upload up to 10 character images, provide a story prompt, and watch as AI creates a unique comic strip, panel by panel.",
+  "requestFramePermissions": []
+}
